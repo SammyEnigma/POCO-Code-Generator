@@ -1,4 +1,4 @@
-# POCO Classes Generator
+# POCO Classes Code Generator
 
 <img src="https://i.imgur.com/9YArrNO.png" />
 
