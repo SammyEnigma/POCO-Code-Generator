@@ -1,0 +1,12 @@
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\Db\obj\Debug\Db.csprojAssemblyReference.cache
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\Db\obj\Debug\Db.csproj.CoreCompileInputs.cache
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\Db\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\Db\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\Db\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\Db\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\Db\bin\Debug\Db.dll
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\Db\bin\Debug\Db.pdb
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\Db\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\Db\obj\Debug\Db.csproj.CopyComplete
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\Db\obj\Debug\Db.dll
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\Db\obj\Debug\Db.pdb

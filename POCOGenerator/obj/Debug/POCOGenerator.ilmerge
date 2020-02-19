@@ -1,0 +1,7 @@
+POCOGenerator.exe
+CommandLine.dll
+Db.dll
+FluentCommandLineParser.dll
+Microsoft.SqlServer.Types.dll
+Microsoft.Data.ConnectionUI.Dialog.dll
+Microsoft.Data.ConnectionUI.dll

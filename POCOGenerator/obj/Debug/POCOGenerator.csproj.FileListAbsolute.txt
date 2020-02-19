@@ -1,0 +1,10 @@
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\POCOGenerator\obj\Debug\POCOGenerator.csprojAssemblyReference.cache
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\POCOGenerator\obj\Debug\POCOGenerator.CommandLineForm.resources
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\POCOGenerator\obj\Debug\POCOGenerator.FilterSettingsForm.resources
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\POCOGenerator\obj\Debug\POCOGenerator.POCOGeneratorForm.resources
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\POCOGenerator\obj\Debug\POCOGenerator.Properties.Resources.resources
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\POCOGenerator\obj\Debug\POCOGenerator.TypeMappingForm.resources
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\POCOGenerator\obj\Debug\POCOGenerator.csproj.GenerateResource.cache
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\POCOGenerator\obj\Debug\POCOGenerator.csproj.CoreCompileInputs.cache
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\POCOGenerator\obj\Debug\POCOGenerator.exe
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\POCOGenerator\obj\Debug\POCOGenerator.pdb

@@ -1,0 +1,9 @@
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\CommandLine\bin\Debug\CommandLine.dll
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\CommandLine\bin\Debug\CommandLine.pdb
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\CommandLine\bin\Debug\FluentCommandLineParser.dll
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\CommandLine\bin\Debug\FluentCommandLineParser.pdb
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\CommandLine\bin\Debug\FluentCommandLineParser.xml
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\CommandLine\obj\Debug\CommandLine.csproj.CoreCompileInputs.cache
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\CommandLine\obj\Debug\CommandLine.csproj.CopyComplete
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\CommandLine\obj\Debug\CommandLine.dll
+C:\Users\corne\OneDrive\Documents\POCO-Code-Generator\CommandLine\obj\Debug\CommandLine.pdb
